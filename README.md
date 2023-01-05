@@ -1,5 +1,5 @@
 # experiments
-Code Experiments and Play
+Code Experiments and Playground
 
 
 ## Experiments
