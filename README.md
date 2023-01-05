@@ -3,7 +3,7 @@ Code Experiments and Play
 
 
 ## Experiments
-- [import-glob](https://github.com/theroyalwhee0/experiments/blob/master/import-glob/README.md)
+- [glob-import](https://github.com/theroyalwhee0/experiments/blob/master/glob-import/README.md)
 
 
 ## Legal & License
