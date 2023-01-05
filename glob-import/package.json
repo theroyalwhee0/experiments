@@ -1,0 +1,16 @@
+{
+  "name": "@theroyalwhee0/exp-glob-import",
+  "version": "1.0.0",
+  "description": "Importing modules by glob in Node.js",
+  "main": "src/index.js",
+  "author": "Adam Mill <hismajesty@theroyalwhee.com>",
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {
+    "glob": "8.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "export NODE_PATH=$(realpath ./test_modules):$NODE_PATH; node src/main"
+  }
+}

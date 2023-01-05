@@ -1,0 +1,12 @@
+{
+  "name": "@example/goose-lorem",
+  "version": "1.0.0",
+  "description": "Lorem Ipsum",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Example Author",
+  "license": "UNLICENCED",
+  "private": true
+}
