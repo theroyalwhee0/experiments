@@ -1,16 +1,14 @@
 # Import Module Glob
 
+This experiment was coverted into a TypeScript library [globimport](https://github.com/theroyalwhee0/globimport).
+
+--------
+
 An experiment with importing [modules](https://nodejs.org/api/modules.html) by glob in Node.js.
 
 
 ## Usage
 See `src/main.js` for example usage.
-
-
-## TODOs
-- Support [ESModules](https://nodejs.org/api/esm.html).
-- Typescript definitions.
-- Support async.
 
 
 ## Legal & License
